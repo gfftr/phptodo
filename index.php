@@ -9,7 +9,7 @@
 </head>
 
 <body>
- <form action="" method="post">
+ <form action="newtodo.php" method="post">
   <input type="text" name="todo_name" placeholder="Enter your todo">
   <button>New Todo</button>
  </form>
